@@ -20,16 +20,26 @@
 - [PostgreSQL](./databases/postgresql.md) - PostgreSQL操作とSQL
 - [Redis](./databases/redis.md) - Redisデータ型とコマンド
 
-### コンテナ・オーケストレーション
-- [Docker](./containers/docker.md) - コンテナ操作とDockerfile
-- [Kubernetes](./containers/kubernetes.md) - kubectlとマニフェスト
-
 ### クラウド
 - [AWS CLI](./cloud/aws-cli.md) - AWS CLIコマンド
 - [gcloud CLI](./cloud/gcloud-cli.md) - Google Cloud CLI
 
+### ビルドツール
+- [Gradle](./build-tools/gradle.md) - Gradleビルドツール
+- [Maven](./build-tools/maven.md) - Mavenビルドツール
+
+### インフラストラクチャ
+- [Terraform](./infrastructure/terraform.md) - Infrastructure as Code
+- [AWS CDK](./infrastructure/cdk.md) - AWS Cloud Development Kit
+
+### コンテナ・オーケストレーション
+- [Docker](./containers/docker.md) - コンテナ操作とDockerfile
+- [Kubernetes](./containers/kubernetes.md) - kubectlとマニフェスト
+- [Helm](./containers/helm.md) - Kubernetesパッケージマネージャー
+
 ### マークアップ
 - [Markdown](./markup/markdown.md) - Markdown記法
+- [Mermaid](./markup/mermaid.md) - ダイアグラム作成
 
 ---
 
